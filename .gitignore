@@ -1,0 +1,9 @@
+# Ignore Twitter cookies file
+data/twitter_cookies.json
+
+# Ignore other common files
+*.log
+*.pyc
+__pycache__/
+.DS_Store
+.env
